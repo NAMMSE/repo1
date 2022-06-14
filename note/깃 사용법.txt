@@ -1,0 +1,15 @@
+
+# Git
+
+ - .git 폴더가 위치한 폴더의 모든 내용을 관리해주는 프로그램
+ - .git 폴더를 생성한 곳을 Repository라고 부른다
+ - .git 폴더 내부에는 관리하는 Repository의 모든 정보가 기록되어 있다
+ - .git에 저장된 기록을 활용하여 관리하는 Repository를 예쩐 모습으로 되돌릴 수 있다
+ - Git은 Repository 내부의 무언가가 아주 약간만 변해도 모두 알아채고 관리해준다
+ - Eclipse에는 Egit이라는 프로그램이 내장되어 있다
+ - 레포지토리를 만들고 거기에 프로젝트를 생성한 뒤 깃 허브에 올리면 언제 어디서든 다시 해당 프로젝트를 사용할 수 있다
+ 
+ - 이클립스 메뉴 - windows - show view - other - git - git repository
+ 
+ - create new repository - 경로 설정 말단 폴더가 레포 이름임
+ - file - new - javaproject - use default location 체크해제 - 경로 레포지토리 밑 폴더로 지정 - 생성
