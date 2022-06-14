@@ -8,8 +8,15 @@
  - Git은 Repository 내부의 무언가가 아주 약간만 변해도 모두 알아채고 관리해준다
  - Eclipse에는 Egit이라는 프로그램이 내장되어 있다
  - 레포지토리를 만들고 거기에 프로젝트를 생성한 뒤 깃 허브에 올리면 언제 어디서든 다시 해당 프로젝트를 사용할 수 있다
+ - 레포지토리 폴더에 숨김 폴더 보면 .git이 있는데 여기에 수정사항들이 저장된다
  
  - 이클립스 메뉴 - windows - show view - other - git - git repository
- 
  - create new repository - 경로 설정 말단 폴더가 레포 이름임
  - file - new - javaproject - use default location 체크해제 - 경로 레포지토리 밑 폴더로 지정 - 생성
+ 
+
+# Commit
+
+ - 레포지토리 내부의 변경 사항을 확정짓는 명령어
+ - 커밋한 사점은 복구 지점이 된다
+ - 체크 아웃 명령을 통해 언제든지 원하는 커밋으로 현재 상태를 옮겨 다닐 수 있다
