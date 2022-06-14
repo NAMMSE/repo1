@@ -2,12 +2,12 @@ package practice;
 
 public class Apple {
 
-	int x;
-	int y;
-	int z;
+	Integer x;
+	Integer y;
+	Integer z;
 	float d;
 	
-	 public Apple(int a, int b) {
+	 public Apple(Integer a, Integer b) {
 		 this.x=a;
 		 this.y=b;
 	}
