@@ -2,13 +2,15 @@ package practice;
 
 public class Apple {
 
-	double a;
-	double b;
-	double c;
+
+	Integer x;
+	Integer y;
+	Integer z;
+
 	float d;
 	
-	 public Apple(int a, int b) {
-		 this.a=a;
-		 this.b=b;
+	 public Apple(Integer a, Integer b) {
+		 this.x=a;
+		 this.y=b;
 	}
 }
